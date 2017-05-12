@@ -15,6 +15,7 @@ Public Class FrmAjustes
         If 1 = 1 Then
             MsgBox("plop")
         End If
+        MsgBox("ahhhhhhhhhhhhhhhhhhhhhh")
     End Sub
 
     Private Sub btnBuscar_Click(sender As Object, e As EventArgs) Handles btnBuscar.Click
