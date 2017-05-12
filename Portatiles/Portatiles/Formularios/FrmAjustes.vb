@@ -12,6 +12,9 @@ Public Class FrmAjustes
         Else
             PonerNumeracion()
         End If
+        If 1 = 1 Then
+            MsgBox("plop")
+        End If
     End Sub
 
     Private Sub btnBuscar_Click(sender As Object, e As EventArgs) Handles btnBuscar.Click
